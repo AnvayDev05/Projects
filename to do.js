@@ -34,3 +34,4 @@ function deleteTask(index) {
   tasks.splice(index, 1);
   renderTasks();
 }
+//text change commit 
